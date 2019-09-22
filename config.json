@@ -1,0 +1,58 @@
+{
+  "email"  : "", 
+
+  "password" : "",
+
+  "netcl" : "8371706",
+
+  "cid" : "CID_523_athena_commando_f_cupid",
+
+  "bid" : "bid_352_cupidfemale",
+
+  "eid" : "",
+
+  "pickaxe_id" : "Pickaxe_Lockjaw",
+
+  "banner" : "otherbanner28",
+
+  "banned_color" : "defaultcolor",
+
+  "banned_level" : "100",
+
+  "friendaccept" : "false",
+
+  "DANG1172s_BOT_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT1_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT2_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT3_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT4_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT5_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT6_ID" : "7e7d7af32ff045cdad147c7638505c23",
+
+  "DANG1172s_BOT7_ID" : "88df29f64ff74d089b43d264bbe59e2b",
+
+  "DANG1172s_BOT8_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT9_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT10_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT11_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT12_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT13_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT14_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_BOT15_ID" : "aa37163afe244d3e8a991e0cc71955d6",
+
+  "DANG1172s_ID" : "aa37163afe244d3e8a991e0cc71955d6"
+
+}
